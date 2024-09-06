@@ -17,7 +17,7 @@
             Console.WriteLine("L           D D");
             Console.WriteLine("L L L L L   D");
 
-            Console.ReadLine();
+            Console.ReadLine( );
             
         }   
     }
